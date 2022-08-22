@@ -11,4 +11,4 @@ pip3 install -r requirements.txt
 python3 manage.py runserver
 ```
 
-you can use link \ http://localhost:8000/graphql \ to access the playrround of this api's
+you can use link http://localhost:8000/graphql to access the playrround of this api's
